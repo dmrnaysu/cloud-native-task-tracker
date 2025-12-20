@@ -29,3 +29,16 @@ npm install
 npm run dev
 
 Frontend: http://localhost:5173
+## Screenshots
+
+### Login
+![Login](docs/images/login.png)
+
+### Signup
+![Signup](docs/images/signup.png)
+
+### Dashboard
+![Dashboard](docs/images/dashboard.png)
+
+### API Docs (Swagger)
+![Swagger](docs/images/swagger.png)
