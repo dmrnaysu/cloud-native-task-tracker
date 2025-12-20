@@ -1,0 +1,23 @@
+﻿# dependencies
+node_modules
+
+# env / secrets
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# builds
+dist
+build
+coverage
+*.log
+
+# OS/editor
+.DS_Store
+.vscode
+
+# backups
+backend_backup_*
+backend_prisma_broken_*
+

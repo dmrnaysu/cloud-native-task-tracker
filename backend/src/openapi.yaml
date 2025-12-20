@@ -1,0 +1,16 @@
+﻿openapi: 3.0.3
+info:
+  title: Cloud Task Tracker API
+  version: 1.0.0
+servers:
+  - url: /api
+paths:
+  /health:
+    get: { summary: Health, responses: { "200": { description: OK } } }
+  /auth/signup:
+    post: { summary: Signup, responses: { "201": { description: Created } } }
+  /auth/login:
+    post: { summary: Login, responses: { "200": { description: OK } } }
+  /jobs:
+    get: { summary: List jobs, responses: { "200": { description: OK } } }
+    post: { summary: Create job, responses: { "201": { description: Created } } }
