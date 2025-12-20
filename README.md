@@ -1,5 +1,6 @@
 ﻿# Cloud-Native Task Tracker (Job/Task Management)
-
+summary
+Cloud-Native Task Tracker is a full-stack web app for tracking job applications (or tasks) with secure authentication, a React dashboard, and a Node/Express REST API. Data is persisted in MongoDB Atlas, and the API is documented with Swagger for easy testing and integration.
 **Full-stack flagship project**:
 - Frontend: React + Vite + TypeScript
 - Backend: Node.js + Express + TypeScript
